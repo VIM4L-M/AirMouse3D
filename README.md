@@ -23,7 +23,7 @@ The project uses a **session-based pairing mechanism** and **Firebase Realtime D
 Conventional mouse devices are not always practical in scenarios such as:
 
 * Presentations and remote control environments
-* Accessibility for users with physical limitations
+* Accessibility for users with physical limitation
 * Situations where touch-based input is inconvenient
 
 This project addresses these limitations by using a smartphone as an intuitive air mouse.
@@ -47,7 +47,7 @@ OS-Level Mouse Control
 ### Key Design Decisions
 
 * No Bluetooth or direct PC–phone connection
-* Firebase used as a real-time communication bridge
+* Firebase have been used as real-time communication bridge
 * Session ID used to pair one phone with one PC
 * Relative cursor movement for smooth control
 
